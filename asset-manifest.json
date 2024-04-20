@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bachaev-react-movies/static/css/main.3d7fe342.css",
-    "main.js": "/bachaev-react-movies/static/js/main.0e2f6421.js",
+    "main.js": "/bachaev-react-movies/static/js/main.a8421c72.js",
     "index.html": "/bachaev-react-movies/index.html",
     "main.3d7fe342.css.map": "/bachaev-react-movies/static/css/main.3d7fe342.css.map",
-    "main.0e2f6421.js.map": "/bachaev-react-movies/static/js/main.0e2f6421.js.map"
+    "main.a8421c72.js.map": "/bachaev-react-movies/static/js/main.a8421c72.js.map"
   },
   "entrypoints": [
     "static/css/main.3d7fe342.css",
-    "static/js/main.0e2f6421.js"
+    "static/js/main.a8421c72.js"
   ]
 }
