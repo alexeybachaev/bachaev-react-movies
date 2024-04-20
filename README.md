@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+Проект на React с использованием materializecss, в котором реализован вывод фильмов с помощью OMDb API и немного фильтрации для изучения реакта.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
